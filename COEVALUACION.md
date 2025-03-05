@@ -23,3 +23,5 @@ La información es clara y acorde a lo solicitado, añade las fuentes.
 
 ## 5. Resolución de ejercicios
 Los ejercicios están bien resueltos.
+
+## Nota: 13 de 15 puntos. __4.3__
